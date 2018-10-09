@@ -1,0 +1,875 @@
+Singularity
+Singularity
+Singularity
+Singularity
+Singularity
+Singularity
+Singularity
+Singularity
+Singularity
+ScramFailure
+ScramFailure
+ScramFailure
+ScramFailure
+ScramFailure
+ScramFailure
+ScramFailure
+ScramFailure
+ScramFailure
+Wallclock
+Wallclock
+Wallclock
+Wallclock
+Wallclock
+Wallclock
+Wallclock
+Wallclock
+Wallclock
+Connection Error
+LogCollect
+fastsim::ParticleManager
+ExternalLHEProducer
+ExternalLHEProducer
+Submit Failure
+Wallclock
+Singularity
+Wallclock
+LogCollect
+Wallclock
+Wallclock
+Wallclock
+Wallclock
+StdException
+FallbackFileOpenError
+FallbackFileOpenError
+LogCollect
+Wallclock
+Wallclock
+Wallclock
+Wallclock
+Wallclock
+Wallclock
+Wallclock
+fastsim::ParticleManager
+fastsim::ParticleManager
+Submit Failure
+Submit Failure
+No such file or directory
+Submit Failure
+ExternalLHEProducer
+Wallclock
+Timeout
+FastSimProducer
+Submit Failure
+Submit Failure
+Disk quota exceeded
+Disk quota exceeded
+Disk quota exceeded
+Disk quota exceeded
+Disk quota exceeded
+Disk quota exceeded
+Disk quota exceeded
+FallbackFileOpenError
+Job has been running for more than
+File Read
+Wallclock
+
+Wallclock
+fastsim::ParticleManager
+fastsim::ParticleManager
+fastsim::ParticleManager
+Submit Failure
+fastsim::ParticleManager
+Job has been running for more than
+File Read
+Wallclock
+
+deprecated releases, production architectures are disabled.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An exception of unknown type was thrown
+Submit Failure
+input ended before all started tags were ended;
+Wallclock
+File Read
+Timeout
+
+
+Wallclock
+Wallclock
+Wallclock
+
+
+Wallclock
+
+Wallclock
+
+
+
+Wallclock
+
+
+
+
+Wallclock
+Wallclock
+
+Wallclock
+Wallclock
+Wallclock
+File Read
+File Read
+Wallclock
+Wallclock
+Wallclock
+Wallclock
+Wallclock
+ERROR:root:Unable to import process from WMTaskSpace.cmsRun1.PSet:
+ERROR:root:Unable to import process from WMTaskSpace.cmsRun1.PSet:
+Submit Failure
+
+Wallclock
+Job has been running for more than
+Wallclock
+Wallclock
+Job has been running for more than
+
+
+
+
+
+
+
+
+Wallclock
+LogCollect
+LogCollect
+Wallclock
+Wallclock
+Wallclock
+Wallclock
+Wallclock
+Wallclock
+Wallclock
+Wallclock
+Stage Out
+fastsim::ParticleManager
+Submit Failure
+fastsim::ParticleManager
+Submit Failure
+Submit Failure
+fastsim::ParticleManager
+Job has been running for more than
+Wallclock
+Xrootd server returned an excluded source
+
+Wallclock
+RootEmbeddedFileSequence
+Wallclock
+
+timeout when waiting for file open
+timeout when waiting for file open
+timeout when waiting for file open
+timeout when waiting for file open
+timeout when waiting for file open
+timeout when waiting for file open
+timeout when waiting for file open
+timeout when waiting for file open
+timeout when waiting for file open
+timeout when waiting for file open
+timeout when waiting for file open
+timeout when waiting for file open
+Wallclock
+Wallclock
+Wallclock
+fastsim::ParticleManager
+Submit Failure
+DictionaryNotFound
+fastsim::ParticleManager
+Submit Failure
+fastsim::ParticleManager
+PluginLibraryLoadError
+Wallclock
+Job has been running for more than
+Wallclock
+File Read
+Job has been running for more than
+Wallclock
+fastsim::ParticleManager
+RootEmbeddedFileSequence
+Wallclock
+
+List of skipped files
+timeout when waiting for file open
+Wallclock
+Wallclock
+
+
+Wallclock
+Wallclock
+File Read
+ScramFailure
+ScramFailure
+ScramFailure
+ScramFailure
+Wallclock
+Wallclock
+
+Wallclock
+Wallclock
+ScramFailure
+ScramFailure
+Submit Failure
+fastsim::ParticleManager
+Submit Failure
+fastsim::ParticleManager
+Submit Failure
+Job has been running for more than
+Wallclock
+ScramFailure
+Wallclock
+Wallclock
+10
+
+Wallclock
+Job has been running for more than
+No module named WMCore.WMRuntime
+No module named WMCore.WMRuntime
+No module named WMCore.WMRuntime
+No module named WMCore.WMRuntime
+No module named WMCore.WMRuntime
+No module named WMCore.WMRuntime
+No module named WMCore.WMRuntime
+No module named WMCore.WMRuntime
+No module named WMCore.WMRuntime
+No module named WMCore.WMRuntime
+No module named WMCore.WMRuntime
+File Read
+File Read
+File Read
+File Read
+File Read
+File Read
+File Read
+File Read
+File Read
+WMAgent bootstrap
+WMAgent bootstrap
+WMAgent bootstrap
+FallbackFileOpenError
+FallbackFileOpenError
+FallbackFileOpenError
+FallbackFileOpenError
+FallbackFileOpenError
+FallbackFileOpenError
+FallbackFileOpenError
+No module named WMCore.WMRuntime
+fastsim::ParticleManager
+fastsim::ParticleManager
+Submit Failure
+Submit Failure
+Submit Failure
+MaxRSS
+Wallclock
+Wallclock
+Wallclock
+Wallclock
+Timeout
+FallbackFileOpenError
+FallbackFileOpenError
+FallbackFileOpenError
+FallbackFileOpenError
+FallbackFileOpenError
+FallbackFileOpenError
+FallbackFileOpenError
+FallbackFileOpenError
+FallbackFileOpenError
+FallbackFileOpenError
+FallbackFileOpenError
+
+
+
+
+
+Failed to load tracker track trajectory
+storage::readv returned different size
+Submit Failure
+Submit Failure
+Submit Failure
+MaxRSS
+Wallclock
+Too many open files
+Timeout
+Timeout
+File Read
+File Read
+File Read
+File Read
+File Read
+Not a directory
+File Read
+File Read
+File Read
+Cannot allocate memory  
+fastsim::ParticleManager
+fastsim::ParticleManager
+fastsim::ParticleManager
+fastsim::ParticleManager
+fastsim::ParticleManager
+memory issues
+memory issues
+memory issues
+memory issues
+Submit Failure
+Submit Failure
+Submit Failure
+Pythia8PtGun:generator
+Pythia8PtGun:generator
+Wallclock
+Wallclock
+Too many open files
+Timeout
+Submit Failure
+Submit Failure
+timeout on reads
+timeout on reads
+
+RootEmbeddedFileSequence
+RootEmbeddedFileSequence
+fastsim::ParticleManager
+fastsim::ParticleManager
+fastsim::ParticleManager
+Submit Failure
+Submit Failure
+Submit Failure
+Pythia8PtGun:generator
+Submit Failure
+Submit Failure
+fastsim::ParticleManager
+RootEmbeddedFileSequence
+Submit Failure
+Pythia8PtGun:generator
+File Read timeouts
+File Read timeouts
+File Read timeouts
+File Read timeouts
+File Read timeouts
+File Read timeouts
+Submit Failure
+Xrootd server returned an excluded source
+fastsim::ParticleManager
+fastsim::ParticleManager
+fastsim::ParticleManager
+fastsim::ParticleManager
+Submit Failure
+Submit Failure
+Pythia8PtGun:generator
+ScramFailure
+LogCollect
+NoRunLumiInformation 
+bytecount too large
+bytecount too large
+bytecount too large
+LogCollect
+File Read
+File Read
+File Read
+File Read
+File Read
+Timeout
+Timeout
+Timeout
+Timeout
+fastsim::ParticleManager
+Pythia8PtGun:generator
+timeout when waiting for file open
+Submit Failure
+File Read
+File Read
+jobReport with no steps
+fastsim::ParticleManager
+fastsim::ParticleManager
+fastsim::ParticleManager
+fastsim::ParticleManager
+fastsim::ParticleManager
+Timeout
+Timeout
+Timeout
+Timeout
+Timeout
+Submit Failure
+Pythia8PtGun:generator
+Wallclock
+
+
+bytecount too large
+File Read
+File Read
+File Read
+Wallclock
+Wallclock
+File Read unmerged
+fastsim::ParticleManager
+fastsim::ParticleManager
+fastsim::ParticleManager
+fastsim::ParticleManager
+L1TStage2EMTF/'l1tStage2Emtf
+Timeout
+Timeout
+Timeout
+Timeout
+Timeout
+Wallclock
+Pythia8PtGun:generator
+File Read
+File Read
+Wallclock
+Wallclock
+Wallclock
+LogCollect
+fastsim::ParticleManager
+fastsim::ParticleManager
+fastsim::ParticleManager
+fastsim::ParticleManager
+Wallclock
+Wallclock
+Timeouts
+Timeouts
+Timeouts
+Pythia8PtGun:generator
+timeout on reads
+LogCollect
+Wallclock
+fastsim::ParticleManager
+fastsim::ParticleManager
+fastsim::ParticleManager
+fastsim::ParticleManager
+fastsim::ParticleManager
+Timeout
+Timeout
+Timeout
+Wallclock
+Wallclock
+Pythia8PtGun:generator
+
+
+
+
+LogCollect
+Wallclock
+Wallclock
+Wallclock
+Wallclock
+Wallclock
+Wallclock
+Wallclock
+File Read
+fastsim::ParticleManager
+fastsim::ParticleManager
+
+
+
+
+
+
+
+Wallclock
+Wallclock
+Wallclock
+Wallclock
+Wallclock
+Wallclock
+Timeout
+Timeout
+
+
+
+
+Pythia8PtGun:generator
+Wallclock
+Wallclock
+Wallclock
+Wallclock
+File Read
+
+
+Stage Out
+CmsRunFailure
+fastsim::ParticleManager
+fastsim::ParticleManager
+fastsim::ParticleManager
+Singularity
+Singularity
+Singularity
+Wallclock
+Wallclock
+Wallclock
+Wallclock
+Wallclock
+Wallclock
+Wallclock
+Wallclock
+Wallclock
+Wallclock
+Wallclock
+Wallclock
+Timeout
+Timeout
+Timeout
+Singularity
+Stage Out
+Stage Out
+Pythia8PtGun:generator
+File Read
+Singularity
+Singularity
+Singularity
+Singularity
+Singularity
+Singularity
+Singularity
+Singularity
+Singularity
+Singularity
+Singularity
+File Read
+File Read
+File Read
+Wallclock
+Stage Out
+skipped merged files
+
+
+
+
+
+Submit Failure
+Submit Failure
+Submit Failure
+Submit Failure
+Submit Failure
+Stage Out
+Singularity
+Singularity
+Singularity
+Singularity
+Singularity
+Singularity
+Singularity
+Singularity
+Singularity
+Singularity
+Singularity
+Singularity
+Singularity
+Singularity
+Singularity
+Singularity
+Singularity
+Singularity
+Stage Out
+Stage Out
+
+
+Timeout
+Timeout
+Wallclock
+Wallclock
+Wallclock
+fastsim::ParticleManager
+MaxRSS
+Pythia8PtGun:generator
+Wallclock
+Wallclock
+Wallclock
+Wallclock
+Wallclock
+Failed to extract job index 
+File Read
+File Read
+File Read
+File Read
+File Read
+File Read
+File Read
+File Read
+File Read
+File Read
+Submit Failure
+File Read
+File Read
+File Read
+File Read
+File Read
+File Read
+File Read
+File Read
+File Read
+File Read
+File Read
+File Read
+File Read
+File Read
+File Read
+File Read
+File Read
+File Read
+File Read
+File Read
+File Read
+File Read
+File Read
+Submit Failure
+Submit Failure
+Submit Failure
+Submit Failure
+Submit Failure
+Submit Failure
+Submit Failure
+Submit Failure
+Submit Failure
+Singularity
+Singularity
+Singularity
+Singularity
+Singularity
+Singularity
+Singularity
+Singularity
+Singularity
+Singularity
+Singularity
+Singularity
+Singularity
+Singularity
+Singularity
+Singularity
+Singularity
+Singularity
+Singularity
+
+
+
+Timeout
+Timeout
+
+
+Stage Out
+Not mounting requested bind point (already mounted in container): /srv
+MaxRSS
+fastsim::ParticleManager
+Wallclock
+Wallclock
+LogCollect
+Stage Out
+File Read
+ScramFailure
+File Read
+File Read
+File Read
+File Read
+File Read
+File Read
+File Read
+File Read
+File Read
+File Read
+File Read
+File Read
+File Read
+File Read
+File Read
+File Read
+File Read
+File Read
+File Read
+File Read
+File Read
+File Read
+Singularity
+Singularity
+Singularity
+Singularity
+Singularity
+Singularity
+Singularity
+Singularity
+Singularity
+
+Timeout
+Timeout
+Submit Failure
+Submit Failure
+Stage Out
+Stage Out
+fastsim::ParticleManager
+nothing useful
+File Read
+File Read
+File Read
+File Read
+File Read
+File Read
+File Read
+File Read
+File Read
+File Read
+File Read
+File Read
+Singularity
+Singularity
+Singularity
+Singularity
+Singularity
+Singularity
+Singularity
+Singularity
+Singularity
+Singularity
+Singularity
+Timeout
+Timeout
+Timeout
+Stage Out
+fastsim::ParticleManager
+Submit Failure
+Config Error
+Singularity
+Singularity
+ScramFailure
+ExternalLHEProducer
+ExternalLHEProducer
+ExternalLHEProducer
+ExternalLHEProducer
+ExternalLHEProducer
+EventGenerationFailure
+EventGenerationFailure
+LesHouchesEvents 
+Singularity
+Singularity
+Singularity
+Singularity
+Singularity
+Singularity
+Singularity
+Wallclock
+
+
+File Read
+File Read
+File Read
+File Read
+File Read
+File Read
+Timeout
+Timeout
+Stage Out
+Submit Failure
+ScramFailure
+removed by glidein
+removed by glidein
+LogCollect
+Wallclock
+Wallclock
+Wallclock
+Wallclock
+Pythia8GeneratorFilter
+Condor Error
+Timeout
+ExternalLHEProducer
+ExternalLHEProducer
+ExternalLHEProducer
+LesHouchesEvents
+Singularity
+Singularity
+Singularity
+Submit Failure
+File Read
+Timeout
+Timeout
+ScramFailure
+ScramFailure
+File Read
+Wallclock
+Wallclock
+Singularity
+Singularity
+LogCollect
+Wallclock
+Wallclock
+Wallclock
+ExternalLHEProducer
+ExternalLHEProducer
+ExternalLHEProducer
+ExternalLHEProducer
+Submit Failure
+Singularity
+Singularity
+Singularity
+Singularity
+Singularity
+Singularity
+Singularity
+Singularity
+Timeout
+Timeout
+Timeout
+Timeout
+LesHouchesEvents
+LesHouchesEvents
+File Read
+File Read
+File Read
+Site Issue
+Site Issue
+ExternalLHEProducer
+JobExtractionError
+Submit Failure
+Submit Failure
+Submit Failure
+Submit Failure
+Singularity
+Singularity
+Singularity
+Singularity
+Singularity
+Singularity
+Singularity
+Singularity
+Singularity
+Singularity
+timeout
+LesHouchesEvents
+LesHouchesEvents
+LesHouchesEvents
+File Read
+Stage Out
